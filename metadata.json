@@ -1,0 +1,6 @@
+{
+  "name": "Superior Delivery Systems",
+  "description": "High-performance commercial truck GPS application presenting truck-safe routing, FMCSA-registered ELD compliance, quick automated IFTA logs, and direct shipload board matching for $10/mo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
